@@ -1,4 +1,4 @@
-package org.learning.algorithms;
+package org.learning.algorithms.sorting;
 
 import java.util.Arrays;
 
