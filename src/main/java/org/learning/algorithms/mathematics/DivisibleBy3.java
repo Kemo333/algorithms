@@ -1,2 +1,8 @@
-package org.learning.algorithms.mathematics;public class DivisibleBy3 {
+package org.learning.algorithms.mathematics;
+
+public class DivisibleBy3
+{
+    /*
+
+     */
 }
